@@ -31,7 +31,7 @@
 
 ## Ответ на задание 1
 
-1.  ![alt text](https://github.com/VN351/ter-hw-3/raw/main/images/task-1-1.png)
+1. ![alt text](https://github.com/AngryCFO/SHTER_Terraform-Drive/blob/6e8e4bcd0f0ed80405ba274e622a0f8dcd7fa39a/images/task-1-1.png)
 
 ------
 
